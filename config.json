@@ -1,6 +1,7 @@
 {
-    "report_url": "",
-    "proxy_scraper": "n",
+    "report_url": "https://www.tiktok.com/aweme/v2/aweme/feedback/?WebIdLastTime=1720152778&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-GB&browser_name=Mozilla&browser_online=true&browser_platform=Win32&browser_version=5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F127.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&current_region=GB&data_collection_enabled=true&device_id=7387999847239058976&device_platform=web_pc&focus_state=true&from_page=user&history_len=3&is_fullscreen=false&is_page_visible=true&lang=en&nickname=TOP%205%20SSL%20PLAYER%21&object_id=7316751368248460320&odinId=6614315675321139206&os=windows&owner_id=7316751368248460320&priority_region=GB&reason=91015&referer=&region=GB&report_type=user&reporter_id=6614315675321139206&screen_height=1080&screen_width=1920&secUid=MS4wLjABAAAAOr3vic__5v7pmVukshH69ZaSDrucyRVBJDZPrrZK2ITyuu9BGW1ai-YQLoMch-WY&target=7316751368248460320&tz_name=Europe%2FLondon&user_is_login=true&webcast_language=en&msToken=32rxf4E_yq6XsD7fh-Ei4qvtYNSDcOMvKk3duQyl0b2rnAGoLGeZqbj4zlr0R9HtOIVEAzAomJa8eswTqmuZo3KxTNwdxwuyxe7lMnfC78n8u8JaqBw4bx9Yf_e54zY1WyFpbNFvKuNznA==&X-Bogus=DFSzswVL2rUANczatvd2pXJ92UXY&_signature=_02B4Z6wo00001iaGgtgAAIDAISy3fI88kiomhoZAAO8Uad
+    ",
+    "proxy_scraper": "y",
     "threads": 200,
 
     "report_types": {
@@ -18,6 +19,6 @@
         "Firearms Or Weapons": "n",
         "Sharing Personal Info": "n",
         "Human Exploitation": "n",
-        "Under Age": "n"
+        "Under Age": "y"
     }
 }
